@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\source\\repos\\IPAddressReader\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{95088E4A-1271-4E19-8314-FA5FDC110A5B}|IPAddressReader\\IPAddressReader.csproj|g:\\source\\repos\\ipaddressreader\\ipaddressreader\\ipaddressfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95088E4A-1271-4E19-8314-FA5FDC110A5B}|IPAddressReader\\IPAddressReader.csproj|solutionrelative:ipaddressreader\\ipaddressfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1DF7B14-6C51-49BC-862D-0FE6E61FCAB4}|IPAddressReaderTest\\IPAddressReaderTest.csproj|g:\\source\\repos\\ipaddressreader\\ipaddressreadertest\\unittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1DF7B14-6C51-49BC-862D-0FE6E61FCAB4}|IPAddressReaderTest\\IPAddressReaderTest.csproj|solutionrelative:ipaddressreadertest\\unittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95088E4A-1271-4E19-8314-FA5FDC110A5B}|IPAddressReader\\IPAddressReader.csproj|g:\\source\\repos\\ipaddressreader\\ipaddressreader\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95088E4A-1271-4E19-8314-FA5FDC110A5B}|IPAddressReader\\IPAddressReader.csproj|solutionrelative:ipaddressreader\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95088E4A-1271-4E19-8314-FA5FDC110A5B}|IPAddressReader\\IPAddressReader.csproj|g:\\source\\repos\\ipaddressreader\\ipaddressreader\\ipaddresscommandbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95088E4A-1271-4E19-8314-FA5FDC110A5B}|IPAddressReader\\IPAddressReader.csproj|solutionrelative:ipaddressreader\\ipaddresscommandbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest.cs",
+              "DocumentMoniker": "G:\\source\\repos\\IPAddressReader\\IPAddressReaderTest\\UnitTest.cs",
+              "RelativeDocumentMoniker": "IPAddressReaderTest\\UnitTest.cs",
+              "ToolTip": "G:\\source\\repos\\IPAddressReader\\IPAddressReaderTest\\UnitTest.cs",
+              "RelativeToolTip": "IPAddressReaderTest\\UnitTest.cs",
+              "ViewState": "AQIAAJIAAAAAAAAAAAAAAIYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T18:03:28.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IPAddressCommandBuilder.cs",
+              "DocumentMoniker": "G:\\source\\repos\\IPAddressReader\\IPAddressReader\\IPAddressCommandBuilder.cs",
+              "RelativeDocumentMoniker": "IPAddressReader\\IPAddressCommandBuilder.cs",
+              "ToolTip": "G:\\source\\repos\\IPAddressReader\\IPAddressReader\\IPAddressCommandBuilder.cs",
+              "RelativeToolTip": "IPAddressReader\\IPAddressCommandBuilder.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAgwFUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T17:55:46.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IPAddressFilter.cs",
+              "DocumentMoniker": "G:\\source\\repos\\IPAddressReader\\IPAddressReader\\IPAddressFilter.cs",
+              "RelativeDocumentMoniker": "IPAddressReader\\IPAddressFilter.cs",
+              "ToolTip": "G:\\source\\repos\\IPAddressReader\\IPAddressReader\\IPAddressFilter.cs",
+              "RelativeToolTip": "IPAddressReader\\IPAddressFilter.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAawCcAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T14:56:24.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\source\\repos\\IPAddressReader\\IPAddressReader\\Program.cs",
+              "RelativeDocumentMoniker": "IPAddressReader\\Program.cs",
+              "ToolTip": "G:\\source\\repos\\IPAddressReader\\IPAddressReader\\Program.cs",
+              "RelativeToolTip": "IPAddressReader\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T17:52:37.828Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

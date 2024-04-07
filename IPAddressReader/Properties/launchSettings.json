@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "IPAddressReader": {
+      "commandName": "Project",
+      "commandLineArgs": "--file-log G:/source/testData/IPAddressReader/input.txt --file-output G:/source/testData/IPAddressReader/output.txt --time-start 01.01.0001 --time-end 06.04.2200 --address-start 255.255.255.255 --address-mask 16"
+    }
+  }
+}
